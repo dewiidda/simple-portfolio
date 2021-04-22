@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(168, 224, 176);
+}
+
+#project {
+  background-color: rgb(168, 224, 176);
+}
+
+.img-profile {
+  padding: 10px;
+  height: 200px;
+}
+
+.imgprj{
+    height: 200px;
+}
+
+section{
+    padding-top: 5rem;
+}
